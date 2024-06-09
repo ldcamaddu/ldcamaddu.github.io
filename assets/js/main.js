@@ -157,7 +157,7 @@
   }
 
   /**
-   * Testimonials slider
+   * Certificate slider
    */
   new Swiper('.certificate-slider', {
     speed: 600,
