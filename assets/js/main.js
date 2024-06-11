@@ -157,9 +157,9 @@
   }
 
   /**
-   * Certificate slider
+   * Testimonials slider
    */
-  new Swiper('.certificate-slider', {
+  new Swiper('.testimonials-slider', {
     speed: 600,
     loop: true,
     autoplay: {
